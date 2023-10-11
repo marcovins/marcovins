@@ -3,14 +3,14 @@
 Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in Computer Engineering, currently in the second semester.
 
 ### 🌱 Currently, I'm exploring
-- 
+
 - Data Structure (Language C)
 - Data Science / Applied Statistics (Python)
 
 ### 🚀 My Projects
 Here are some of my featured projects:
 
-- Bot Discord  (https://github.com/marcovins/Projeto_Bot_Discord) - Moderator bot for the official server of the Computer Engineering course at IFPB - Campina Grande.
+- Bot Discord  https://github.com/marcovins/Projeto_Bot_Discord - Moderator bot for the official server of the Computer Engineering course at IFPB - Campina Grande.
 
 ### 📫 Contact
 - 📧 Email: marcosbelods@gmail.com
