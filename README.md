@@ -18,7 +18,10 @@ Here are some of my featured projects:
 - 📱 WhatsApp: https://api.whatsapp.com/send?phone=5583988152350
 
 ### 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcovins&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcovins&theme=tokyonight&layout=compact)](https://github.com/marcovins/github-readme-stats)
+<div>
+  <a href="https://github.com/marcovins">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcovins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcovins&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
 
 Feel free to explore my projects and get in touch if you want to collaborate or simply have a chat about technology and development. Thank you for visiting my profile!
