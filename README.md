@@ -19,6 +19,6 @@ Here are some of my featured projects:
 
 ### 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcovins&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcovins)](https://github.com/marcovins/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcovins&theme=tokyonight)](https://github.com/marcovins/github-readme-stats)
 
 Feel free to explore my projects and get in touch if you want to collaborate or simply have a chat about technology and development. Thank you for visiting my profile!
