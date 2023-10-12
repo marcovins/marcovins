@@ -20,6 +20,7 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
 
 ### 🚀 My Projects
 Here are some of my featured projects:
+<br>
 
 <table>
   <tr>
