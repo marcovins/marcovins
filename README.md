@@ -8,7 +8,7 @@
 </div>
 
 
-![Alt Text](https://media.giphy.com/media/l41lZMazzdfs4sGtO/giphy.gif)
+![Alt Text](https://lottiefiles.com/animations/animation-1696256064589-gv64aqORus)
 
 
 <br>
