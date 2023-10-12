@@ -1,3 +1,7 @@
+[![Português Brasileiro](https://img.shields.io/badge/Portugu%C3%AAs-Brasileiro-brightgreen.svg)](https://translate.google.com.br)
+
+
+
 ## 👋 Hello, I'm Marcos Belo!
 <br>
 Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in Computer Engineering, currently in the second semester.
