@@ -35,32 +35,33 @@ Here are some of my featured projects:
 
 ### 📫 Contact
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="text-align: center;">
-    <a href="mailto:marcosbelods@gmail.com">
-      <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/email.svg" width="50" height="50" alt="Meu e-mail">
-    </a>
-    <div style="text-align: center;">
-      <span>E-mail</span>
-    </div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/marcos-belo-b78775271/">
-      <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/linkedin.svg" width="50" height="50" alt="LinkedIn">
-    </a>
-    <div style="text-align: center;">
-      <span>LinkedIn</span>
-    </div>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://api.whatsapp.com/send?phone=5583988152350">
-      <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/whatsapp.svg" width="50" height="50" alt="WhatsApp">
-    </a>
-    <div style="text-align: center;">
-      <span>WhatsApp</span>
-    </div>
+<div style="display: flex; align-items: center; text-align: center;">
+  <a href="mailto:marcosbelods@gmail.com">
+    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/email.svg" width="50" height="50" alt="Meu e-mail">
+  </a>
+  <div>
+    <span>E-mail</span>
   </div>
 </div>
+
+<div style="display: flex; align-items: center; text-align: center;">
+  <a href="https://www.linkedin.com/in/marcos-belo-b78775271/">
+    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/linkedin.svg" width="50" height="50" alt="LinkedIn">
+  </a>
+  <div>
+    <span>LinkedIn</span>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5583988152350">
+    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/whatsapp.svg" width="50" height="50" alt="WhatsApp">
+  </a>
+  <div>
+    <span>WhatsApp</span>
+  </div>
+</div>
+
 
 
 <br>
