@@ -8,8 +8,7 @@
 </div>
 
 
-![Alt Text](https://icons8.com/icon/QsO1qiXCL8H2/code)
-
+<img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="github"/>
 
 <br>
 <br>
