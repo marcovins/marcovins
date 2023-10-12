@@ -17,6 +17,7 @@ Bem-vindo ao meu perfil do GitHub. Sou um estudante do curso de Engenharia de Co
 <br>
 
 ### 🌱 Atualmente, estou explorando
+<br>
 
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" alt="c" width="20" style="max-width: 100px;">
@@ -31,6 +32,8 @@ Bem-vindo ao meu perfil do GitHub. Sou um estudante do curso de Engenharia de Co
 <br>
 
 ### 🚀 Meus Projetos
+<br>
+
 Aqui estão alguns dos meus projetos em destaque:
 <br>
 
@@ -51,6 +54,7 @@ Aqui estão alguns dos meus projetos em destaque:
 <br>
 
 ### 📫 Contato
+<br>
 
 <a href="mailto:marcosbelods@gmail.com">
   <img align="left" alt="E-mail" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/email.svg" />
