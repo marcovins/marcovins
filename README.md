@@ -5,12 +5,12 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
 ### 🌱 Currently, I'm exploring
 
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" alt="c" style="width: 50%; max-width: 100px;">
+  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" alt="c" style="width: 50%; max-width: 1000px;">
   <span style="margin-left: 20px;">- Data Structure (Language C)</span>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/python.svg" alt="Python" style="width: 50%; max-width: 100px;">
+  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/python.svg" alt="Python" style="width: 50%; max-width: 1000px;">
   <span style="margin-left: 20px;">- Data Science / Applied Statistics (Python)</span>
 </div>
 
