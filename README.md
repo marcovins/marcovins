@@ -17,9 +17,11 @@ Here are some of my featured projects:
 - 💼 LinkedIn: https://www.linkedin.com/in/marcos-belo-b78775271/
 - 📱 WhatsApp: https://api.whatsapp.com/send?phone=5583988152350
 
-### 📈 GitHub Statistics
+### 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcovins&show_icons=true&theme=tokyonight&height=200)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcovins&theme=tokyonight&layout=donut&height=200)](https://github.com/marcovins/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcovins&show_icons=true&theme=tokyonight&height=200) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcovins&theme=tokyonight&layout=donut&height=200)](https://github.com/marcovins/github-readme-stats)
+
+[![The Huxley Profile](hux.svg)](https://www.thehuxley.com/profile/44467))
+
 
 Feel free to explore my projects and get in touch if you want to collaborate or simply have a chat about technology and development. Thank you for visiting my profile!
