@@ -73,8 +73,6 @@ Aqui estão alguns dos meus projetos em destaque:
 
 ### 📈 Estatísticas
 
-<br>
-
 <div style="text-align: center;">
   <a href="https://www.thehuxley.com/profile/44467">
     <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/hux.svg" width="100" height="100" alt="Ícone do The Huxley">
