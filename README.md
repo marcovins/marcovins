@@ -1,6 +1,7 @@
 ## 👋 Hello, I'm Marcos Belo!
 
 Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in Computer Engineering, currently in the second semester.
+<br>
 
 ### 🌱 Currently, I'm exploring
 
@@ -13,6 +14,7 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
   <span style="margin-left: 20px;">- Data Science / Applied Statistics (Python)</span>
 </div>
 
+<br>
 <br>
 
 ### 🚀 My Projects
@@ -32,6 +34,7 @@ Here are some of my featured projects:
 </table>
 
 <br>
+<br>
 
 ### 📫 Contact
 
@@ -46,8 +49,11 @@ Here are some of my featured projects:
 </a>
 
 <br>
+<br>
 
 ### 📈 Stats
+
+<br>
 
 <div style="text-align: center;">
   <a href="https://www.thehuxley.com/profile/44467">
