@@ -13,7 +13,15 @@ Here are some of my featured projects:
 - Bot Discord  https://github.com/marcovins/Projeto_Bot_Discord - Moderator bot for the official server of the Computer Engineering course at IFPB - Campina Grande.
 
 ### 📫 Contact
-- 📧 Email: marcosbelods@gmail.com
+
+<div style="text-align: center;">
+  <a href="mailto:marcosbelods@gmail.com">
+    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/hux.svg" width="100" height="100" alt="Ícone do The Huxley">
+  </a>
+  <div style="text-align: center;">
+    <span>Email</span>
+  </div>
+</div>
 - 💼 LinkedIn: https://www.linkedin.com/in/marcos-belo-b78775271/
 - 📱 WhatsApp: https://api.whatsapp.com/send?phone=5583988152350
 
@@ -21,7 +29,7 @@ Here are some of my featured projects:
 
 <div style="text-align: center;">
   <a href="https://www.thehuxley.com/profile/44467">
-    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/hux.svg" width="100" height="100" alt="Ícone do The Huxley">
+    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/email.svg" width="100" height="100" alt="Ícone do The Huxley">
   </a>
   <div style="text-align: center;">
     <span>Perfil no The Huxley</span>
