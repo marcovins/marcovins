@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://translate.google.com.br">
+  <a href="https://github.com/marcovins/marcovins/blob/main/README-PT.md">
     <img src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Português Brasileiro" width="50" height="50">
   </a>
   <a href="https://github.com/marcovins/marcovins/blob/main/README-EN.md">
