@@ -26,7 +26,7 @@ Here are some of my featured projects:
       </a>
     </td>
     <td style="padding-left: 20px;">
-      <span>Moderator bot for the official server of the Computer Engineering course at IFPB - Campina Grande.</span>
+      <span>- Moderator bot for the official server of the Computer Engineering course at IFPB - Campina Grande.</span>
     </td>
   </tr>
 </table>
