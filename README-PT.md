@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## 👋 Olá, sou Marcos Belo!
+## <img width="64" height="64" src="https://www.svgrepo.com/show/493162/hacker.svg" alt="github"/> Olá, sou Marcos Belo!
 <br>
 Bem-vindo ao meu perfil do GitHub. Sou um estudante do curso de Engenharia de Computação, atualmente no segundo semestre.
 <br>
