@@ -17,6 +17,7 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
 <br>
 
 ### 🌱 Currently, I'm exploring
+<br>
 
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" alt="c" width="20" style="max-width: 100px;">
@@ -31,6 +32,8 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
 <br>
 
 ### 🚀 My Projects
+<br>
+
 Here are some of my featured projects:
 <br>
 
@@ -51,6 +54,7 @@ Here are some of my featured projects:
 <br>
 
 ### 📫 Contact
+<br>
 
 <a href="mailto:marcosbelods@gmail.com">
   <img align="left" alt="E-mail" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/email.svg" />
