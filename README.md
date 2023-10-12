@@ -10,7 +10,16 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
 ### 🚀 My Projects
 Here are some of my featured projects:
 
-- Bot Discord  https://github.com/marcovins/Projeto_Bot_Discord - Moderator bot for the official server of the Computer Engineering course at IFPB - Campina Grande.
+<div style="text-align: center;">
+  <a href="https://github.com/marcovins/Projeto_Bot_Discord">
+    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/discord.svg" width="100" height="100" alt="Ícone do discord">
+  </a>
+  <div style="text-align: center;">
+    <span>Bot Discord</span>
+  </div>
+</div>
+
+- Moderator bot for the official server of the Computer Engineering course at IFPB - Campina Grande.
 
 ### 📫 Contact
 
