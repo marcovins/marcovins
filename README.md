@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in Computer Engineering, currently in the second semester.
 
-
-
-
+<br>
 
 ### 🌱 Currently, I'm exploring
 
@@ -12,15 +10,13 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
   <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" alt="c" width="20" style="max-width: 100px;">
   <span style="margin-left: 20px;">- Data Structure (Language C)</span>
 </div>
-
+<br>
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/python.svg" alt="Python" width="20" style="max-width: 100px;">
   <span style="margin-left: 20px;">- Data Science / Applied Statistics (Python)</span>
 </div>
 
-
-
-
+<br>
 
 ### 🚀 My Projects
 Here are some of my featured projects:
@@ -38,9 +34,7 @@ Here are some of my featured projects:
   </tr>
 </table>
 
-
-
-
+<br>
 
 ### 📫 Contact
 
@@ -71,9 +65,7 @@ Here are some of my featured projects:
   </div>
 </div>
 
-
-
-
+<br>
 
 ### 📈 Stats
 
@@ -86,10 +78,10 @@ Here are some of my featured projects:
   </div>
 </div>
 
+<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcovins&show_icons=true&theme=tokyonight&height=200) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcovins&theme=tokyonight&layout=donut&height=200)](https://github.com/marcovins/github-readme-stats)
 
-
-
+<br>
 
 Feel free to explore my projects and get in touch if you want to collaborate or simply have a chat about technology and development. Thank you for visiting my profile!
