@@ -35,32 +35,27 @@ Here are some of my featured projects:
 
 ### 📫 Contact
 
-<div style="display: flex; align-items: center; text-align: center;">
+<div>
   <a href="mailto:marcosbelods@gmail.com">
     <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/email.svg" width="50" height="50" alt="Meu e-mail">
   </a>
-  <div>
-    <span>E-mail</span>
-  </div>
+  <span>E-mail</span>
 </div>
 
-<div style="display: flex; align-items: center; text-align: center;">
+<div>
   <a href="https://www.linkedin.com/in/marcos-belo-b78775271/">
     <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/linkedin.svg" width="50" height="50" alt="LinkedIn">
   </a>
-  <div>
-    <span>LinkedIn</span>
-  </div>
+  <span>LinkedIn</span>
 </div>
 
-<div style="display: flex; align-items: center; text-align: center;">
+<div>
   <a href="https://api.whatsapp.com/send?phone=5583988152350">
     <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/whatsapp.svg" width="50" height="50" alt="WhatsApp">
   </a>
-  <div>
-    <span>WhatsApp</span>
-  </div>
+  <span>WhatsApp</span>
 </div>
+
 
 
 
