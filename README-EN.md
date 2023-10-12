@@ -2,7 +2,7 @@
   <a href="https://translate.google.com.br">
     <img src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Português Brasileiro" width="50" height="50">
   </a>
-  <a href="https://translate.google.com">
+  <a href="https://github.com/marcovins/marcovins/blob/main/README-EN.md">
     <img src="https://www.svgrepo.com/show/405645/flag-for-flag-united-states.svg" alt="English" width="50" height="50">
   </a>
 </div>
