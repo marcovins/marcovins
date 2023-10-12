@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in Computer Engineering, currently in the second semester.
 
+
+
+
+
 ### 🌱 Currently, I'm exploring
 
 <div style="display: flex; align-items: center;">
@@ -13,6 +17,9 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
   <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/python.svg" alt="Python" width="20" style="max-width: 100px;">
   <span style="margin-left: 20px;">- Data Science / Applied Statistics (Python)</span>
 </div>
+
+
+
 
 
 ### 🚀 My Projects
@@ -63,6 +70,7 @@ Here are some of my featured projects:
     </div>
   </div>
 </div>
+
 
 
 
