@@ -23,7 +23,15 @@ Here are some of my featured projects:
   </div>
 </div>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/marcos-belo-b78775271/
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/marcos-belo-b78775271/">
+    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/linkedin.svg" width="50" height="50" alt="Meu e-mail">
+  </a>
+  <div style="text-align: center;">
+    <span>Linkedin</span>
+  </div>
+</div>
+
 - 📱 WhatsApp: https://api.whatsapp.com/send?phone=5583988152350
 
 ### 📈 Stats
