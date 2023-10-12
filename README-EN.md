@@ -1,15 +1,14 @@
-<p align="center">
+<div align="center">
   <a href="https://translate.google.com.br">
     <img src="https://img.shields.io/badge/Portugu%C3%AAs-Brasileiro-brightgreen.svg" alt="Português Brasileiro">
   </a>
   <a href="https://translate.google.com">
     <img src="https://img.shields.io/badge/English-blue.svg" alt="English">
   </a>
-</p>
+</div>
 
-
-
-
+<br>
+<br>
 
 ## 👋 Hello, I'm Marcos Belo!
 <br>
