@@ -1,4 +1,12 @@
-                                                      [![Português Brasileiro](https://img.shields.io/badge/Portugu%C3%AAs-Brasileiro-brightgreen.svg)](https://translate.google.com.br) [![English](https://img.shields.io/badge/English-blue.svg)](https://translate.google.com)
+<p align="center">
+  <a href="https://translate.google.com.br">
+    <img src="https://img.shields.io/badge/Portugu%C3%AAs-Brasileiro-brightgreen.svg" alt="Português Brasileiro">
+  </a>
+  <a href="https://translate.google.com">
+    <img src="https://img.shields.io/badge/English-blue.svg" alt="English">
+  </a>
+</p>
+
 
 
 
