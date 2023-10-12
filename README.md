@@ -21,7 +21,7 @@ Here are some of my featured projects:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcovins&show_icons=true&theme=tokyonight&height=200) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcovins&theme=tokyonight&layout=donut&height=200)](https://github.com/marcovins/github-readme-stats)
 
-[![The Huxley Profile](hux.svg)](https://www.thehuxley.com/profile/44467))
+[![The Huxley Profile](https://raw.githubusercontent.com/seu-username/icons/master/hux.svg)](https://www.thehuxley.com/profile/44467))
 
 
 Feel free to explore my projects and get in touch if you want to collaborate or simply have a chat about technology and development. Thank you for visiting my profile!
