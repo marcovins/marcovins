@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://translate.google.com.br">
-    <img src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Português Brasileiro">
+    <img src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Português Brasileiro" width="50" height="50">
   </a>
   <a href="https://translate.google.com">
-    <img src="https://img.shields.io/badge/English-blue.svg" alt="English">
+    <img src="https://www.svgrepo.com/show/405645/flag-for-flag-united-states.svg" alt="English" width="50" height="50">
   </a>
 </div>
 
