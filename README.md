@@ -8,12 +8,12 @@
 </div>
 
 
-<img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="github"/>
 
 <br>
 <br>
 
-## 👋 Hello, I'm Marcos Belo!
+## 👋 Hello, I'm Marcos Belo!  <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="github"/>
+
 <br>
 Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in Computer Engineering, currently in the second semester.
 <br>
