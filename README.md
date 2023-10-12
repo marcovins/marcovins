@@ -39,7 +39,7 @@ Here are some of my featured projects:
   <a href="mailto:marcosbelods@gmail.com">
     <img align="left" alt="E-mail" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/email.svg" />
     <br>
-    E-mail
+    <span>E-mail</span>
   </a>
 </div>
 
@@ -47,7 +47,7 @@ Here are some of my featured projects:
   <a href="https://www.linkedin.com/in/marcos-belo-b78775271/">
     <img align="left" alt="LinkedIn" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/linkedin.svg" />
     <br>
-    LinkedIn
+    <span>Linkedin</span>
   </a>
 </div>
 
@@ -55,7 +55,7 @@ Here are some of my featured projects:
   <a href="https://api.whatsapp.com/send?phone=5583988152350">
     <img align="left" alt="WhatsApp" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/whatsapp.svg" />
     <br>
-    WhatsApp
+    <span>Whatsapp</span>
   </a>
 </div>
 
