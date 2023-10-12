@@ -73,7 +73,6 @@ Here are some of my featured projects:
 
 ### 📈 Stats
 
-<br>
 
 <div style="text-align: center;">
   <a href="https://www.thehuxley.com/profile/44467">
