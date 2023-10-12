@@ -35,32 +35,15 @@ Here are some of my featured projects:
 
 ### 📫 Contact
 
-<div style="text-align: center;">
-  <a href="mailto:marcosbelods@gmail.com">
-    <img align="left" alt="E-mail" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/email.svg" />
-  </a>
-  <br>
-  E-mail
-</div>
-
-<div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/marcos-belo-b78775271/">
-    <img align="left" alt="LinkedIn" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/linkedin.svg" />
-  </a>
-  <br>
-  LinkedIn
-</div>
-
-<div style="text-align: center;">
-  <a href="https://api.whatsapp.com/send?phone=5583988152350">
-    <img align="left" alt="WhatsApp" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/whatsapp.svg" />
-  </a>
-  <br>
-  WhatsApp
-</div>
-
-
-
+<a href="mailto:marcosbelods@gmail.com">
+  <img align="left" alt="E-mail" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/email.svg" />
+</a>
+<a href="https://www.linkedin.com/in/marcos-belo-b78775271/">
+  <img align="left" alt="LinkedIn" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/linkedin.svg" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=5583988152350">
+  <img align="left" alt="WhatsApp" width="50" height="50" src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/whatsapp.svg" />
+</a>
 
 <br>
 
