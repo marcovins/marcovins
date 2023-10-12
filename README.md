@@ -4,8 +4,8 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
 
 ### 🌱 Currently, I'm exploring
 
-- Data Structure (Language C) <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" width="20" height="20" alt="Ícone do discord">
-- Data Science / Applied Statistics (Python)
+- Data Structure (Language C) <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" width="10" height="10" alt="Ícone do discord">
+- Data Science / Applied Statistics (Python) <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/python.svg" width="10" height="10" alt="Ícone do discord">
 
 ### 🚀 My Projects
 Here are some of my featured projects:
