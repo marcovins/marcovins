@@ -15,7 +15,7 @@
 ## <img width="64" height="64" src="https://www.svgrepo.com/show/493162/hacker.svg" alt="github"/> Hello, I'm Marcos Belo!  
 
 <br>
-Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in Computer Engineering, currently in the second semester.
+Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in Computer Engineering, currently in the third semester.
 <br>
 <br>
 
