@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://github.com/marcovins/marcovins/blob/main/README-PT.md">
     <img src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Português Brasileiro" width="50" height="50">
@@ -20,16 +21,25 @@ Bem-vindo ao meu perfil do GitHub. Sou um estudante do curso de Engenharia de Co
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" alt="c" width="20" style="max-width: 100px;">
-  <span style="margin-left: 20px;">- Estruturas de Dados (Linguagem C)</span>
-</div>
-<div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/python.svg" alt "Python" width="20" style="max-width: 100px;">
-  <span style="margin-left: 20px;">- Ciência de Dados / Estatística Aplicada (Python)</span>
+  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/python.svg" alt="Python" width="20" style="max-width: 100px;">
+  <span style="margin-left: 20px;">- Python e análise de dados como estagiário em Data Science na FIEP</span>
 </div>
 
-<br>
-<br>
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" alt="C++" width="20" style="max-width: 100px;">
+  <span style="margin-left: 20px;">- C++ no desenvolvimento de um game utilizando somente ASCII</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/ahk.svg" alt="AutoHotKey" width="20" style="max-width: 100px;">
+  <span style="margin-left: 20px;">- Scripts de automação com AutoHotKey</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/ai.svg" alt="AI" width="20" style="max-width: 100px;">
+  <span style="margin-left: 20px;">- Capacitações na área de inteligência artificial como aluno selecionado pela empresa BRAVONIX</span>
+</div>
+
 
 ### 🚀 Meus Projetos
 <br>
@@ -45,7 +55,59 @@ Aqui estão alguns dos meus projetos em destaque:
       </a>
     </td>
     <td style="padding-left: 20px;">
-      <span>- Bot moderador para o servidor oficial do curso de Engenharia de Computação no IFPB - Campina Grande.</span>
+      <span>- Bot moderador para o servidor oficial do curso de Engenharia de Computação no IFPB - Campina Grande. 2023.1 </span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marcovins/Bootcamp_Python_Backend/tree/master/Projeto_Api_TDD">
+        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/tdd.svg" width="100" height="100" alt="Ícone do TDD">
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <span>- Projeto de Api simulando uma loja utilizando desenvolvimento TDD - Bootcamp Python Backend. 2023.2 </span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marcovins/Bootcamp_Python_Backend/tree/master/Projeto_Api_RestFull">
+        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/program.svg" width="100" height="100" alt="Ícone da API">
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <span>- Projeto de API RestFull - Bootcamp Python Backend. 2023.2 </span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marcovins/analise-armas-criminalidade-br">
+        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/grafo.svg" width="100" height="100" alt="Ícone de grafo">
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <span>- Análise da Correlação entre Armas de Fogo Ilegais e Criminalidade no Brasil - Projeto Teoria dos grafos. 2024.1 </span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marcovins/TopGear-ASCII">
+        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/topgear.svg" width="100" height="100" alt="Ícone do TopGear">
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <span>- TopGear - ASCII (Projeto de Programação Orientada a Objetos). 2024.1 </span>
     </td>
   </tr>
 </table>
