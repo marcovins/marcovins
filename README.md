@@ -7,8 +7,6 @@
   </a>
 </div>
 
-
-
 <br>
 <br>
 
@@ -23,13 +21,25 @@ Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in 
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" alt="c" width="20" style="max-width: 100px;">
-  <span style="margin-left: 20px;">- Data Structure (Language C)</span>
-</div>
-<div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/python.svg" alt="Python" width="20" style="max-width: 100px;">
-  <span style="margin-left: 20px;">- Data Science / Applied Statistics (Python)</span>
+  <span style="margin-left: 20px;">- Python and data analysis as a Data Science intern at FIEP</span>
 </div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/c.svg" alt="C++" width="20" style="max-width: 100px;">
+  <span style="margin-left: 20px;">- C++ in the development of a game using only ASCII</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/ahk.svg" alt="AutoHotKey" width="20" style="max-width: 100px;">
+  <span style="margin-left: 20px;">- Automation scripts with AutoHotKey</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/ai.svg" alt="AI" width="20" style="max-width: 100px;">
+  <span style="margin-left: 20px;">- Training in artificial intelligence as a selected student by BRAVONIX</span>
+</div>
+
 
 <br>
 <br>
@@ -44,11 +54,63 @@ Here are some of my featured projects:
   <tr>
     <td>
       <a href="https://github.com/marcovins/Projeto_Bot_Discord">
-        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/discord.svg" width="100" height="100" alt="Ícone do discord">
+        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/discord.svg" width="100" height="100" alt="Discord Icon">
       </a>
     </td>
     <td style="padding-left: 20px;">
-      <span>- Moderator bot for the official server of the Computer Engineering course at IFPB - Campina Grande.</span>
+      <span>- Moderator bot for the official server of the Computer Engineering course at IFPB - Campina Grande. 2023.1</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marcovins/Bootcamp_Python_Backend/tree/master/Projeto_Api_TDD">
+        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/tdd.svg" width="100" height="100" alt="TDD Icon">
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <span>- API project simulating a store using TDD development - Bootcamp Python Backend. 2023.2</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marcovins/Bootcamp_Python_Backend/tree/master/Projeto_Api_RestFull">
+        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/program.svg" width="100" height="100" alt="API Icon">
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <span>- RESTful API project - Bootcamp Python Backend. 2023.2</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marcovins/analise-armas-criminalidade-br">
+        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/grafo.svg" width="100" height="100" alt="Graph Icon">
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <span>- Analysis of the correlation between illegal firearms and crime rates in Brazil - Graph Theory Project. 2024.1</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/marcovins/TopGear-ASCII">
+        <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/topgear.svg" width="100" height="100" alt="TopGear Icon">
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <span>- TopGear - ASCII (Object-Oriented Programming Project). 2024.1</span>
     </td>
   </tr>
 </table>
@@ -76,13 +138,12 @@ Here are some of my featured projects:
 
 ### 📈 Stats
 
-
 <div style="text-align: center;">
   <a href="https://www.thehuxley.com/profile/44467">
-    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/hux.svg" width="100" height="100" alt="Ícone do The Huxley">
+    <img src="https://raw.githubusercontent.com/marcovins/marcovins/master/icons/hux.svg" width="100" height="100" alt="The Huxley Icon">
   </a>
   <div style="text-align: center;">
-    <span>Perfil no The Huxley</span>
+    <span>The Huxley Profile</span>
   </div>
 </div>
 
