@@ -38,30 +38,32 @@
 Atualmente estou no **4º semestre de Engenharia de Computação**, estagiando como **Desenvolvedor Backend** na **FIEPB** (Federação das Indústrias da Paraíba).  
 Sou apaixonado por desenvolver soluções inovadoras e aprender sobre tecnologias de ponta. Meus estudos e trabalho focam em:
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center; width: 200px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
     <h3>🧠 Machine Learning & Deep Learning</h3>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw0Z2NkMXFiNDdweGU3ZjA2NzRwcG13dG5nc2w3cDhleXg5aHBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif" alt="Machine Learning GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw0Z2NkMXFiNDdweGU3ZjA2NzRwcG13dG5nc2w3cDhleXg5aHBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif" alt="Machine Learning GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px;">
   </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>🔧 Processamento de Sinais com Microcontroladores</h3>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN0MTBwMmFpeGl2cjJmZ2VwZnQweDFleWtyNmkwOHVmeHRxNG4zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif" alt="Processamento de Sinais GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
+  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
+    <h3>🔧 Processamento de sinais</h3>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN0MTBwMmFpeGl2cjJmZ2VwZnQweDFleWtyNmkwOHVmeHRxNG4zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif" alt="Signal Processing GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px;">
   </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>📊 Coleta & Análise de Dados</h3>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zcDUyNG1iZmU1d253aDJ2MDBiaDE5ODUya3E1NGh1ajRlNHprbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" alt="Data GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
+  
+  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
+    <h3>📊 Tratamento de dados</h3>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zcDUyNG1iZmU1d253aDJ2MDBiaDE5ODUya3E1NGh1ajRlNHprbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" alt="Data GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px;">
   </div>
-  <div style="text-align: center; width: 200px;">
+  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
     <h3>🧩 Cadeias de Markov</h3>
-    <img src="https://media1.tenor.com/m/mskx_ROTkMAAAAAd/markov-chain-markovchain.gif" alt="Markov Chain GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
+    <img src="https://media1.tenor.com/m/mskx_ROTkMAAAAAd/markov-chain-markovchain.gif" alt="Markov Chain GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px;">
   </div>
-  <div style="text-align: center; width: 200px; border-radius: 50px">
-    <h3>🤖 Soluções de IA</h3>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndwOHVtZTNxdzVvNW0zejh5dTZ0cjh0N3B4NG9qZGpiODlpYXRvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsqpYMxi6gRrUX2PCB/giphy.gif" alt="AI GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
+  
+  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
+    <h3>🤖 Soluções com IA</h3>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndwOHVtZTNxdzVvNW0zejh5dTZ0cjh0N3B4NG9qZGpiODlpYXRvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsqpYMxi6gRrUX2PCB/giphy.gif" alt="AI GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px;">
   </div>
-  <div style="text-align: center; width: 200px;">
+  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
     <h3>🌐 Web Scraping</h3>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V0NG82OWN5eGpxazVzbmQxMGU0aHpienRoOXl2YmF0enpyOXV4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Web Scraping GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V0NG82OWN5eGpxazVzbmQxMGU0aHpienRoOXl2YmF0enpyOXV4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Web Scraping GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px;">
   </div>
 </div>
 
