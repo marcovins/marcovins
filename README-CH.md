@@ -40,32 +40,37 @@
 我目前在**计算机工程**的**第4学期**，在**FIEPB**（巴西帕拉伊巴工业联合会）担任**后端开发实习生**。  
 我对开发创新解决方案和学习前沿技术充满热情。我的学习和工作重点是：
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center; width: 200px;">
-    <h3>🧠 机器学习与深度学习</h3>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw0Z2NkMXFiNDdweGU3ZjA2NzRwcG13dG5nc2w3cDhleXg5aHBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif" alt="机器学习GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>🔧 微控制器信号处理</h3>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN0MTBwMmFpeGl2cjJmZ2VwZnQweDFleWtyNmkwOHVmeHRxNG4zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif" alt="信号处理GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>📊 数据收集与分析</h3>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zcDUyNG1iZmU1d253aDJ2MDBiaDE5ODUya3E1NGh1ajRlNHprbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" alt="数据GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>🧩 马尔科夫链</h3>
-    <img src="https://media1.tenor.com/m/mskx_ROTkMAAAAAd/markov-chain-markovchain.gif" alt="马尔科夫链GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px; border-radius: 50px">
-    <h3>🤖 人工智能解决方案</h3>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndwOHVtZTNxdzVvNW0zejh5dTZ0cjh0N3B4NG9qZGpiODlpYXRvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsqpYMxi6gRrUX2PCB/giphy.gif" alt="人工智能GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>🌐 网络抓取</h3>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V0NG82OWN5eGpxazVzbmQxMGU0aHpienRoOXl2YmF0enpyOXV4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="网络抓取GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <h3>🧠 机器学习与深度学习</h3>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ4ZGw1cjNvMTM0ajM4dm1ycHI2cGNnczB4MmQ5YjJqaXE5Z29hOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpmNf92LmkoMw/giphy.gif" width="200px" height="200px">
+    </td>
+    <td align="center">
+      <h3>🔧 信号处理</h3>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN0MTBwMmFpeGl2cjJmZ2VwZnQweDFleWtyNmkwOHVmeHRxNG4zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif" width="200px" height="200px">
+    </td>
+    <td align="center">
+      <h3>📊 数据处理</h3>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zcDUyNG1iZmU1d253aDJ2MDBiaDE5ODUya3E1NGh1ajRlNHprbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="200px" height="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🧩 马尔科夫链</h3>
+      <img src="https://media1.tenor.com/m/mskx_ROTkMAAAAAd/markov-chain-markovchain.gif" width="200px" height="200px">
+    </td>
+    <td align="center">
+      <h3>🤖 人工智能解决方案</h3>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMzdXA5ZTk4YjM1Z3ZuZnhpMW5meTgyeDF2a3ZqbDllMWQyN2htZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExlTPcZqobpseyY/giphy.gif" width="200px" height="200px">
+    </td>
+    <td align="center">
+      <h3>🌐 网络抓取</h3>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V0NG82OWN5eGpxazVzbmQxMGU0aHpienRoOXl2YmF0enpyOXV4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200px" height="200px">
+    </td>
+  </tr>
+</table>
+
 
 <br>
 

@@ -40,32 +40,36 @@
 I'm currently in my **4th semester of Computer Engineering**, interning as a **Backend Developer** at **FIEPB** (Federation of Industries of Paraíba).  
 I'm passionate about developing innovative solutions and learning about cutting-edge technologies. My studies and work focus on:
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center; width: 200px;">
-    <h3>🧠 Machine Learning & Deep Learning</h3>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw0Z2NkMXFiNDdweGU3ZjA2NzRwcG13dG5nc2w3cDhleXg5aHBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif" alt="Machine Learning GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>🔧 Signal Processing with Microcontrollers</h3>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN0MTBwMmFpeGl2cjJmZ2VwZnQweDFleWtyNmkwOHVmeHRxNG4zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif" alt="Signal Processing GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>📊 Data Collection & Analysis</h3>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zcDUyNG1iZmU1d253aDJ2MDBiaDE5ODUya3E1NGh1ajRlNHprbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" alt="Data GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>🧩 Markov Chains</h3>
-    <img src="https://media1.tenor.com/m/mskx_ROTkMAAAAAd/markov-chain-markovchain.gif" alt="Markov Chain GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px; border-radius: 50px">
-    <h3>🤖 AI Solutions</h3>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndwOHVtZTNxdzVvNW0zejh5dTZ0cjh0N3B4NG9qZGpiODlpYXRvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsqpYMxi6gRrUX2PCB/giphy.gif" alt="AI GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <h3>🌐 Web Scraping</h3>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V0NG82OWN5eGpxazVzbmQxMGU0aHpienRoOXl2YmF0enpyOXV4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Web Scraping GIF" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50px">
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <h3>🧠 Machine Learning & Deep Learning</h3>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ4ZGw1cjNvMTM0ajM4dm1ycHI2cGNnczB4MmQ5YjJqaXE5Z29hOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpmNf92LmkoMw/giphy.gif" width="200px" height="200px">
+    </td>
+    <td align="center">
+      <h3>🔧 Signal Processing</h3>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN0MTBwMmFpeGl2cjJmZ2VwZnQweDFleWtyNmkwOHVmeHRxNG4zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif" width="200px" height="200px">
+    </td>
+    <td align="center">
+      <h3>📊 Data Processing</h3>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zcDUyNG1iZmU1d253aDJ2MDBiaDE5ODUya3E1NGh1ajRlNHprbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="200px" height="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🧩 Markov Chains</h3>
+      <img src="https://media1.tenor.com/m/mskx_ROTkMAAAAAd/markov-chain-markovchain.gif" width="200px" height="200px">
+    </td>
+    <td align="center">
+      <h3>🤖 AI Solutions</h3>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMzdXA5ZTk4YjM1Z3ZuZnhpMW5meTgyeDF2a3ZqbDllMWQyN2htZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExlTPcZqobpseyY/giphy.gif" width="200px" height="200px">
+    </td>
+    <td align="center">
+      <h3>🌐 Web Scraping</h3>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V0NG82OWN5eGpxazVzbmQxMGU0aHpienRoOXl2YmF0enpyOXV4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200px" height="200px">
+    </td>
+  </tr>
+</table>
 
 <br>
 
