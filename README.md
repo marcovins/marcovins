@@ -78,77 +78,91 @@ real-world applications!
 
 ## 🚀 My Projects
 
-Here are some of the projects I’ve worked on. Feel free to explore them!
+Here are some of the projects I have worked on. Feel free to explore them!
 
 <div align="center">
-  <!-- First row: Speech Recognition, Markov Text Generator, Round Robin CPU Scheduler -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🗣️ Speech Recognition</h3>
-      <p>Automatic speech-to-text conversion project. <br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/speech-recognition" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🔄 Markov Text Generator</h3>
-      <p>Text generation based on Markov chains. <br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/markov-text-generator" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>💻 Round Robin CPU Scheduler</h3>
-      <p>Implementation of the round-robin CPU scheduling algorithm. <br><br><img src="https://img.shields.io/badge/c++-00599C?style=round-square&logo=cplusplus&logoColor=white" alt="C++ Badge"></p>
-      <a href="https://github.com/marcovins/round-robin-cpu-scheduler" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-  </div>
-  <br>
-  <!-- Second row: Microcontroller Practices, Web Scraping LLM, Data Analysis -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🛠️ Microcontroller Practices</h3>
-      <p>A collection of microcontroller programming practices. <br><br><img src="https://img.shields.io/badge/-00599C?style=round-square&logo=c&logoColor=white" alt="C Badge"></p>
-      <a href="https://github.com/marcovins/praticas-microcontroladores" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🌐 Web Scraping with LLM</h3>
-      <p>Web scraping project using large language models. <br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/projeto-web-scraping-LLM" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>📊 Data Analysis</h3>
-      <p>Project for performing various data analysis tasks. <br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/data-analysis" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-  </div>
-  <br>
-  <!-- Third row: Top Gear ASCII and Criminality and Weapons Analysis -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🚗 Top Gear ASCII</h3>
-      <p>ASCII game inspired by Top Gear cars using C++. <br><br><img src="https://img.shields.io/badge/c++-00599C?style=round-square&logo=cplusplus&logoColor=white" alt="C++ Badge"></p>
-      <a href="https://github.com/marcovins/top-gear-ascii" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🔍 Criminality & Weapons Analysis</h3>
-      <p>Crime data and weapon usage analysis. <br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/analise-armas-criminalidade-br" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <h3>🗣️ Speech Recognition</h3>
+        <p>Automatic speech-to-text conversion project.</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/speech-recognition" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>🔄 Markov Text Generator</h3>
+        <p>Text generation based on Markov chains.</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/markov-text-generator" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>💻 Round Robin CPU Scheduler</h3>
+        <p>Implementation of the Round-Robin scheduling algorithm.</p>
+        <img src="https://img.shields.io/badge/c++-00599C?style=round-square&logo=cplusplus&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/round-robin-cpu-scheduler" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <h3>🛠️ Microcontroller Practices</h3>
+        <p>Microcontroller programming practices.</p>
+        <img src="https://img.shields.io/badge/-00599C?style=round-square&logo=c&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/praticas-microcontroladores" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>🌐 Web Scraping with LLM</h3>
+        <p>Web scraping using language models.</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/projeto-web-scraping-LLM" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>📊 Data Analysis</h3>
+        <p>Data analysis project.</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/data-analysis" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <h3>🚗 Top Gear ASCII</h3>
+        <p>ASCII game inspired by Top Gear.</p>
+        <img src="https://img.shields.io/badge/c++-00599C?style=round-square&logo=cplusplus&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/top-gear-ascii" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>🔍 Crime & Guns Analysis</h3>
+        <p>Data analysis on crime and guns.</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/analise-armas-criminalidade-br" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <!-- Contact Section -->
 <div style="text-align: left; padding: 20px; border-radius: 10px; background-color:rgb(0, 0, 0, 0); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -165,30 +179,6 @@ Here are some of the projects I’ve worked on. Feel free to explore them!
     </a>
   </div>
 </div>
-
-<!-- Adicionando efeitos de hover -->
-<style>
-  div a:hover img, .badge:hover, .gif:hover, .project-card:hover, .stats:hover {
-    transform: scale(1.1);
-    transition: transform 0.3s ease;
-  }
-
-  .project-card {
-    border: 1px solid #ddd;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .stats {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .badge, .gif {
-    transition: transform 0.3s ease;
-  }
-</style>
 
 <br>
 
@@ -217,11 +207,3 @@ Here are some of the projects I’ve worked on. Feel free to explore them!
     Thank you for visiting my profile! 👋
   </p>
 </div>
-
-<!-- Efeito de hover -->
-<style>
-  a:hover {
-    transform: scale(1.1);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-</style>

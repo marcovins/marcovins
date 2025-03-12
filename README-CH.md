@@ -77,77 +77,91 @@
 
 ## 🚀 我的项目
 
-这是我参与的部分项目。欢迎随意浏览！
+以下是我参与的一些项目，欢迎随意探索！
 
 <div align="center">
-  <!-- 第一行：语音识别、马尔可夫文本生成器、循环队列CPU调度程序 -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🗣️ 语音识别</h3>
-      <p>自动语音转文本项目。<br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/speech-recognition" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🔄 马尔可夫文本生成器</h3>
-      <p>基于马尔可夫链的文本生成。<br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/markov-text-generator" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>💻 循环队列CPU调度程序</h3>
-      <p>循环队列CPU调度算法的实现。<br><br><img src="https://img.shields.io/badge/c++-00599C?style=round-square&logo=cplusplus&logoColor=white" alt="C++ Badge"></p>
-      <a href="https://github.com/marcovins/round-robin-cpu-scheduler" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-  </div>
-  <br>
-  <!-- 第二行：微控制器实践、Web Scraping LLM、数据分析 -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🛠️ 微控制器实践</h3>
-      <p>微控制器编程实践的集合。<br><br><img src="https://img.shields.io/badge/-00599C?style=round-square&logo=c&logoColor=white" alt="C Badge"></p>
-      <a href="https://github.com/marcovins/praticas-microcontroladores" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🌐 使用LLM的Web Scraping</h3>
-      <p>使用大语言模型的Web抓取项目。<br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/projeto-web-scraping-LLM" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>📊 数据分析</h3>
-      <p>执行各种数据分析任务的项目。<br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/data-analysis" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-  </div>
-  <br>
-  <!-- 第三行：Top Gear ASCII 和 犯罪与武器分析 -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🚗 Top Gear ASCII</h3>
-      <p>受《Top Gear》汽车启发的ASCII游戏，使用C++实现。<br><br><img src="https://img.shields.io/badge/c++-00599C?style=round-square&logo=cplusplus&logoColor=white" alt="C++ Badge"></p>
-      <a href="https://github.com/marcovins/top-gear-ascii" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-      <h3>🔍 犯罪与武器分析</h3>
-      <p>犯罪数据与武器使用分析。<br><br><img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white" alt="Python Badge"></p>
-      <a href="https://github.com/marcovins/analise-armas-criminalidade-br" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square" alt="GitHub Badge">
-      </a>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <h3>🗣️ 语音识别</h3>
+        <p>语音转文本的自动化项目。</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/speech-recognition" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>🔄 马尔科夫文本生成器</h3>
+        <p>基于马尔科夫链的文本生成。</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/markov-text-generator" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>💻 CPU 循环调度器</h3>
+        <p>实现循环调度算法。</p>
+        <img src="https://img.shields.io/badge/c++-00599C?style=round-square&logo=cplusplus&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/round-robin-cpu-scheduler" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <h3>🛠️ 微控制器实践</h3>
+        <p>微控制器编程实践。</p>
+        <img src="https://img.shields.io/badge/-00599C?style=round-square&logo=c&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/praticas-microcontroladores" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>🌐 使用LLM进行网页抓取</h3>
+        <p>使用语言模型进行网页抓取。</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/projeto-web-scraping-LLM" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>📊 数据分析</h3>
+        <p>用于数据分析的项目。</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/data-analysis" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <h3>🚗 Top Gear ASCII</h3>
+        <p>受《Top Gear》启发的ASCII游戏。</p>
+        <img src="https://img.shields.io/badge/c++-00599C?style=round-square&logo=cplusplus&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/top-gear-ascii" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+      <td align="center" width="250">
+        <h3>🔍 犯罪与武器分析</h3>
+        <p>关于犯罪和武器的数据分析。</p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=round-square&logo=python&logoColor=white">
+        <br><br>
+        <a href="https://github.com/marcovins/analise-armas-criminalidade-br" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Project-blue?style=round-square">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <!-- 联系部分 -->
 <div style="text-align: left; padding: 20px; border-radius: 10px; background-color:rgb(0, 0, 0, 0); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -164,30 +178,6 @@
     </a>
   </div>
 </div>
-
-<!-- 添加hover效果 -->
-<style>
-  div a:hover img, .badge:hover, .gif:hover, .project-card:hover, .stats:hover {
-    transform: scale(1.1);
-    transition: transform 0.3s ease;
-  }
-
-  .project-card {
-    border: 1px solid #ddd;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .stats {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .badge, .gif {
-    transition: transform 0.3s ease;
-  }
-</style>
 
 <br>
 
@@ -216,11 +206,3 @@
     感谢访问我的个人资料！👋
   </p>
 </div>
-
-<!-- hover效果 -->
-<style>
-  a:hover {
-    transform: scale(1.1);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-</style>
