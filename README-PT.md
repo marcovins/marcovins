@@ -42,7 +42,7 @@ Sou apaixonado por desenvolver soluções inovadoras e aprender sobre tecnologia
   <tr>
     <td align="center">
       <h3>🧠 Machine Learning & Deep Learning</h3>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw0Z2NkMXFiNDdweGU3ZjA2NzRwcG13dG5nc2w3cDhleXg5aHBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif" width="200px" height="200px">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ4ZGw1cjNvMTM0ajM4dm1ycHI2cGNnczB4MmQ5YjJqaXE5Z29hOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpmNf92LmkoMw/giphy.gif" width="200px" height="200px">
     </td>
     <td align="center">
       <h3>🔧 Processamento de Sinais</h3>
@@ -62,7 +62,7 @@ Sou apaixonado por desenvolver soluções inovadoras e aprender sobre tecnologia
   <tr>
     <td align="center">
       <h3>🤖 Soluções com IA</h3>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndwOHVtZTNxdzVvNW0zejh5dTZ0cjh0N3B4NG9qZGpiODlpYXRvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsqpYMxi6gRrUX2PCB/giphy.gif" width="200px" height="200px">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMzdXA5ZTk4YjM1Z3ZuZnhpMW5meTgyeDF2a3ZqbDllMWQyN2htZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExlTPcZqobpseyY/giphy.gif" width="200px" height="200px">
     </td>
     <td align="center">
       <h3>🌐 Web Scraping</h3>
