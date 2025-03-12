@@ -166,7 +166,7 @@ Aqui estão alguns dos projetos nos quais trabalhei. Fique à vontade para explo
 
 <!-- Seção de Contato -->
 <div style="text-align: center; padding: 20px; border-radius: 10px; background-color: rgb(0, 0, 0, 0); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h2>📫 Contato</h2>
+  <h2>📫 Contato </h2>
   <table align="center">
     <tr>
       <td style="padding: 10px; text-align: center;">
@@ -207,7 +207,7 @@ Aqui estão alguns dos projetos nos quais trabalhei. Fique à vontade para explo
 <div style="text-align: center; padding: 20px; border-radius: 10px; background-color: rgb(0, 0, 0, 0); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h2>🚀 Vamos nos Conectar!</h2>
   <p style="font-size: 18px; color:rgb(255, 255, 255);">
-    Fique à vontade para explorar meus <strong><a href="#projects" style="color: #007BFF; text-decoration: none;">projetos</a></strong> e entre em contato se quiser colaborar ou simplesmente bater um papo sobre tecnologia e desenvolvimento.
+    Fique à vontade para explorar meus <strong><a href="#-meus-projetos" style="color: #007BFF; text-decoration: none;">projetos</a></strong> e entre em contato se quiser colaborar ou simplesmente bater um papo sobre tecnologia e desenvolvimento.
   </p>
   <p style="font-size: 16px; color: rgb(255, 255, 255);">
     Seus comentários e ideias são sempre bem-vindos. Vamos construir algo incrível juntos!
