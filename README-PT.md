@@ -70,7 +70,6 @@ Sou apaixonado por desenvolver soluções inovadoras e aprender sobre tecnologia
 
 </table>
 
-
 <br>
 
 Estou sempre explorando novas maneiras de implementar e otimizar **Inteligência Artificial** em 

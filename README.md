@@ -76,7 +76,6 @@ I'm passionate about developing innovative solutions and learning about cutting-
 I'm constantly exploring new ways to implement and optimize **Artificial Intelligence** in 
 real-world applications!
 
-
 ## 🚀 My Projects
 
 Here are some of the projects I’ve worked on. Feel free to explore them!
