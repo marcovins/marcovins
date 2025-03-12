@@ -29,9 +29,9 @@
   <img src="https://img.shields.io/github/followers/marcovins?style=round-the-badge" alt="Seguidores no GitHub">
 </div>
 
-### Bem-vindo ao meu perfil do GitHub. Sou estudante de Engenharia de Computação, atualmente no quarto semestre.
-
-
+<div align="center">
+  <h2>Bem-vindo ao meu perfil do GitHub.</h2>
+</div>
 
 ## 🚀 Sobre Mim
 

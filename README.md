@@ -29,7 +29,9 @@
   <img src="https://img.shields.io/github/followers/marcovins?style=round-the-badge" alt="GitHub Followers">
 </div>
 
-### Welcome to my GitHub profile. I'm a student of the Bachelor's degree program in Computer Engineering, currently in the third semester.
+<div align="center">
+  <h2>Welcome to my GitHub profile.</h2>
+</div>
 
 <br>
 

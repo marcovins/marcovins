@@ -29,7 +29,9 @@
   <img src="https://img.shields.io/github/followers/marcovins?style=round-the-badge" alt="GitHub Followers">
 </div>
 
-### 欢迎来到我的GitHub个人主页。我是计算机工程学士学位课程的学生，目前在第三学期。
+<div align="center">
+  <h2>欢迎来到我的GitHub.</h2>
+</div>
 
 <br>
 
