@@ -48,18 +48,16 @@ Sou apaixonado por desenvolver soluções inovadoras e aprender sobre tecnologia
       <h3>🔧 Processamento de Sinais</h3>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN0MTBwMmFpeGl2cjJmZ2VwZnQweDFleWtyNmkwOHVmeHRxNG4zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif" width="200px" height="200px">
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <h3>📊 Tratamento de Dados</h3>
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5zcDUyNG1iZmU1d253aDJ2MDBiaDE5ODUya3E1NGh1ajRlNHprbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="200px" height="200px">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <h3>🧩 Cadeias de Markov</h3>
       <img src="https://media1.tenor.com/m/mskx_ROTkMAAAAAd/markov-chain-markovchain.gif" width="200px" height="200px">
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <h3>🤖 Soluções com IA</h3>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMzdXA5ZTk4YjM1Z3ZuZnhpMW5meTgyeDF2a3ZqbDllMWQyN2htZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExlTPcZqobpseyY/giphy.gif" width="200px" height="200px">
@@ -69,6 +67,7 @@ Sou apaixonado por desenvolver soluções inovadoras e aprender sobre tecnologia
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V0NG82OWN5eGpxazVzbmQxMGU0aHpienRoOXl2YmF0enpyOXV4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200px" height="200px">
     </td>
   </tr>
+
 </table>
 
 
