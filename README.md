@@ -194,7 +194,7 @@ Here are some of the projects I have worked on. Feel free to explore them!
 <div style="text-align: center; padding: 20px; border-radius: 10px; background-color: rgb(0, 0, 0, 0); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h2>🚀 Let's Connect!</h2>
   <p style="font-size: 18px; color:rgb(255, 255, 255);">
-    Feel free to explore my <strong><a href="#projects" style="color: #007BFF; text-decoration: none;">projects</a></strong> and get in touch if you want to collaborate or simply have a chat about technology and development.
+    Feel free to explore my <strong><a href="#-my-projects" style="color: #007BFF; text-decoration: none;">projects</a></strong> and get in touch if you want to collaborate or simply have a chat about technology and development.
   </p>
   <p style="font-size: 16px; color: rgb(255, 255, 255);">
     Your feedback and ideas are always welcome. Let's build something amazing together!

@@ -193,7 +193,7 @@
 <div style="text-align: center; padding: 20px; border-radius: 10px; background-color: rgb(0, 0, 0, 0); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h2>🚀 让我们联系吧！</h2>
   <p style="font-size: 18px; color:rgb(255, 255, 255);">
-    随时浏览我的<strong><a href="## 🚀 我的项目" style="color: #007BFF; text-decoration: none;">项目</a></strong>，如果你想合作或只是和我聊聊技术和开发，欢迎联系我。
+    随时浏览我的<strong><a href="#-我的项目" style="color: #007BFF; text-decoration: none;">项目</a></strong>，如果你想合作或只是和我聊聊技术和开发，欢迎联系我。
   </p>
   <p style="font-size: 16px; color: rgb(255, 255, 255);">
     你的反馈和想法总是欢迎的。让我们一起创造一些了不起的东西！
